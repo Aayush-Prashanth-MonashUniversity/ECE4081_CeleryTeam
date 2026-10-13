@@ -1,0 +1,14 @@
+{
+    "muscle": "Biceps",
+    "baseline_adc": 94.58882175226586,
+    "rest_rms_adc": 28.57200516402829,
+    "mvc_rms_adc": 455.7079329253975,
+    "sample_rate_hz": 1000,
+    "rms_window_seconds": 0.25,
+    "mvc_trials": [
+        277.52429354010775,
+        283.0126567433519,
+        455.7079329253975
+    ],
+    "signal_note": "ADC signal is lower-rail clipped; MVC is a relative within-session metric."
+}
